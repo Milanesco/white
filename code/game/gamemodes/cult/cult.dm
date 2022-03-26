@@ -40,7 +40,7 @@
 	false_report_weight = 10
 	restricted_jobs = list("Prisoner", "Chaplain","AI", "Cyborg", "Russian Officer", "Trader", "Hacker","Veteran", "Security Officer", "Warden", "Detective", "Head of Security", "Captain", "Head of Personnel", "Field Medic")
 	protected_jobs = list()
-	required_players = 29
+	required_players = 25
 	required_enemies = 4
 	recommended_enemies = 4
 	enemy_minimum_age = 14
